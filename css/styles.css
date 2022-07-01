@@ -1,0 +1,60 @@
+.bio{
+  background-color: grey;
+  height: 100px;
+  width:300px;
+  text-align: center;
+  display: inline-block;
+  margin-left: 100px;
+  margin-top: 200px;
+  padding: 50px;
+}
+.bio:hover{
+  background-color: blue;
+}
+.hobby{
+  background-color:cyan;
+  height: 100px;
+  width:300px;
+  text-align: center;
+ display: inline-block;
+ margin-left: 100px;
+ padding: 50px;
+}
+.hobby:hover{
+  background-color: blue;
+}
+.photo{
+  background-color: teal;
+  height: 100px;
+  width:300px;
+  text-align: center;
+  display: inline-block;
+  margin-left: 295px;
+  padding: 50px;
+}
+.photo:hover{
+  background-color: blue;
+}
+.contact{
+  background-color:violet;
+  height: 100px;
+  width:300px;
+  text-align: center;
+display: inline-block;
+margin-left: 295px;
+padding: 50px;
+}
+.contact:hover{
+  background-color: blue;
+}
+.education{
+  background-color:navy;
+  height: 150px;
+  width:300px;
+  text-align: center;
+  padding-top: 50px;
+  margin-left: 500px;
+}
+.education:hover{
+  background-color: blue;
+}
